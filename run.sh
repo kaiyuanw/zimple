@@ -6,7 +6,7 @@ function compile.project() {
 
 function run.ekstazi() {
         # mvn clean compile > /dev/null
-	mvn clean test -Pekstazip
+	mvn clean test -Pekstaziz
 }
 
 function main() {
