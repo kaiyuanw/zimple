@@ -4,7 +4,7 @@ import junit.framework.TestCase;
 
 import org.junit.Test;
 
-public class TTest extends TestCase {
+public class CTest extends TestCase {
 	@Test
 	public void test4() {
 		new C();
